@@ -1,0 +1,18 @@
+source "http://rubygems.org"
+
+gem "cucumber"
+gem "rails"
+gem "rspec"
+gem "calabash-cucumber"
+gem "bundler"
+gem "calabash-android"
+gem 'pry'
+gem 'pry-nav'
+gem 'json'
+gem 'faker'
+#deletar daqui para baixo
+gem 'capybara'
+gem 'rake'
+gem 'selenium-webdriver'
+gem 'page-object'
+gem 'site_prism', '~> 2.9'
